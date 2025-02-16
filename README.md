@@ -5,7 +5,7 @@
 ## Développeur web à la recherche d'un stage de fin d'étude
 
 - 🌱 Actuellement sur un projet intégrant l'api de chatGPT
-- 🔥 Toujours en train de créer de nouveaux projets intégrant de nouvelles notions
+- 🔥 Toujours en train de créer de nouveaux projets en y intégrant à chaque fois de nouvelles connaissances.
 - 💬 J'aime faire du sport (football), voyager, et lire. 
 
 ### Stack utlisée
